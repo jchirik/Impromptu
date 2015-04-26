@@ -1,0 +1,6 @@
+framework module CardIO {
+  umbrella header "Pods-Impulsiv-CardIO-umbrella.h"
+
+  export *
+  module * { export * }
+}
